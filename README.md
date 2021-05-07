@@ -1,8 +1,8 @@
 # Texas Real Estate Web Scraper
 
-### A Web Scraper for Texas Real Estate Water District and Bond Info
+### Web Scraper for Texas Real Estate Water District and Bond Info
 
-Running this program automatically requests the most up to date table data, and returns that data with formated columns into a comma separated value file (.csv).
+Running this script automatically requests the most up to date table data, and returns that data with formated columns into a comma separated value file (.csv).
 
 This script requires that `pandas`, `beautiful soup`, `requests`, `regex`, and `datetime` be installed within the Python environment.
 
