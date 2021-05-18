@@ -1,6 +1,6 @@
 # Texas Real Estate Web Scraper
 
-### Web Scraper for Texas Real Estate Water District and Bond Info
+### A Web Scraper for Texas Real Estate Water District and Bond Info
 
 I built this web scraper in October 2020 for a Title company in Austin, Texas. This script is currently used on a weekly basis to scrape data from a table on a website that contains up-to-date real estate, water district, and bond information for the entire state of Texas.
 
